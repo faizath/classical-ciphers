@@ -1,7 +1,7 @@
 # SimpleCrypto
 Simple JavaScript Cryptography Algorithm Library
 
-# Installation
+## Installation
 Download the SimpleCrypto.js or Use these CDN
 ```html
 <script src="https://cdn.jsdelivr.net/gh/faizath/SimpleCrypto@main/SimpleCrypto.js"></script>
@@ -11,7 +11,7 @@ or
 <script src="https://faizath.github.io/SimpleCrypto/SimpleCrypto.js"></script>
 ```
 
-# Supported Algorithm
+## Supported Algorithm
 - [ROT13](https://en.wikipedia.org/wiki/ROT13)
   ```javascript
   SimpleCrypto.ROT13(a-z string)
@@ -37,7 +37,7 @@ or
     SimpleCrypto.Vigenere.decrypt(a-z string, a-z key)
     ```
 
-# Contributing
+## Contributing
 1.  Fork it (https://github.com/faizath/SimpleCrypto/fork)
 2.  Create your feature branch (git checkout -b my-new-feature)
 3.  Commit your changes (git commit -am 'Add some feature')
